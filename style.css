@@ -1,0 +1,29 @@
+.logo{
+    text-align: center;
+}
+
+.imagem img{
+    width: 530px;
+}
+
+.imagem2 img{
+    width: 530px;
+    display: flex;
+    text-align: center;
+}
+
+.tudo{
+    display: flex;
+    gap: 100px;
+    justify-content: center;
+    margin: 60px;
+    
+}
+
+.card{
+    width: 640px;
+    height: 630px;
+    text-align: center;
+    background: darkgrey;
+    border-radius: 12px;
+}
